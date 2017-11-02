@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{llnl}
+``Introduction to parallel computing.''
+  \url{https://computing.llnl.gov/tutorials/parallel_comp/#ExamplesPI}.
+\newblock Erişim tarihi: 31.10.2017.
+
+\bibitem{arc}
+``Monte carlo estimates of pi and an important statistical lesson - the do
+  loop.''
+  \url{https://blogs.sas.com/content/iml/2016/03/14/monte-carlo-estimates-of-pi.html}.
+\newblock Erişim tarihi: 31.10.2017.
+
+\end{thebibliography}
